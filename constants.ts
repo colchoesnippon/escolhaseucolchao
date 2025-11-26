@@ -109,14 +109,14 @@ export const TECH_OPTIONS: OptionItem<Technology>[] = [
 export const COMFORT_OPTIONS: OptionItem<Comfort>[] = [
   { 
     value: Comfort.SOFT, 
-    label: 'Macio', 
+    label: 'Macio - D30', 
     priceModifier: 0, 
     description: 'Pra quem busca mais conforto',
     thumbnail: 'https://colchoesnippon.com/wp-content/uploads/2025/11/macio-conforto-colchao-tamanho-nippon-magnetico-massageador.jpg'
   },
   { 
     value: Comfort.MEDIUM, 
-    label: 'Intermediário', 
+    label: 'Intermediário - D33', 
     priceModifier: 0, 
     description: 'Ideal para Coluna',
     isPopular: true,
@@ -124,7 +124,7 @@ export const COMFORT_OPTIONS: OptionItem<Comfort>[] = [
   },
   { 
     value: Comfort.FIRM, 
-    label: 'Firme', 
+    label: 'Firme - D45', 
     priceModifier: 0, 
     description: 'Suporte ortopédico',
     thumbnail: 'https://colchoesnippon.com/wp-content/uploads/2025/11/firme-conforto-colchao-tamanho-nippon-magnetico-massageador.jpg'
