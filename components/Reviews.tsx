@@ -6,7 +6,7 @@ const REVIEWS = [
     name: 'Ricardo Almeida',
     city: 'Curitiba, PR',
     text: 'Impressionado com a qualidade. A vibroterapia ajuda muito depois de um dia tenso. O acabamento é impecável.',
-    image: 'https://images.unsplash.com/photo-1505693416388-b0346efee539?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
+    image: 'https://colchoesnippon.com.br/wp-content/uploads/2025/11/Cleverson-cliente-satisfeito-colchao-magnetico-massageador-nippon-flex-preco-casal.jpg',
     stars: 5
   },
   {
@@ -14,7 +14,7 @@ const REVIEWS = [
     name: 'Ana Paula Souza',
     city: 'São Paulo, SP',
     text: 'A entrega foi super rápida e o atendimento no WhatsApp excelente. O colchão Queen ficou perfeito na minha cama box.',
-    image: 'https://images.unsplash.com/photo-1505693314120-0d4438699d9e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
+    image: 'https://colchoesnippon.com.br/wp-content/uploads/2025/11/novo0-cliente-satisfeito-colchao-magnetico-massageador-nippon-flex-preco-casal.jpg',
     stars: 5
   },
   {
@@ -22,7 +22,7 @@ const REVIEWS = [
     name: 'Carlos Mendez',
     city: 'Porto Alegre, RS',
     text: 'Sofria de dores nas costas há anos. A firmeza desse colchão combinada com o infravermelho mudou minhas noites.',
-    image: 'https://images.unsplash.com/photo-1631049307264-da0ec9d70304?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
+    image: 'https://colchoesnippon.com.br/wp-content/uploads/2025/11/18-cliente-satisfeito-colchao-magnetico-massageador-nippon-flex-preco-casal.jpg',
     stars: 5
   },
   {
@@ -30,7 +30,7 @@ const REVIEWS = [
     name: 'Fernanda Lima',
     city: 'Florianópolis, SC',
     text: 'Comprei o King com Vibro Premium. O controle pelo celular é muito chique e prático. Vale cada centavo.',
-    image: 'https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
+    image: 'https://colchoesnippon.com.br/wp-content/uploads/2025/11/gabriela-cliente-satisfeito-colchao-magnetico-massageador-nippon-flex-preco-casal.jpg',
     stars: 5
   },
   {
@@ -38,7 +38,7 @@ const REVIEWS = [
     name: 'Marcos Vinícius',
     city: 'Belo Horizonte, MG',
     text: 'Melhor investimento que fiz para minha saúde este ano. O suporte é firme mas não é duro demais. Recomendo.',
-    image: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
+    image: 'https://colchoesnippon.com.br/wp-content/uploads/2025/10/20-cliente-satisfeito-colchao-magnetico-massageador-nippon-flex-preco-casal.jpg',
     stars: 5
   },
   {
@@ -46,7 +46,7 @@ const REVIEWS = [
     name: 'Juliana Costa',
     city: 'Rio de Janeiro, RJ',
     text: 'Estava com receio de comprar online, mas me surpreendi. O colchão é lindo e muito confortável.',
-    image: 'https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
+    image: 'https://colchoesnippon.com.br/wp-content/uploads/2025/04/09-cliente-satisfeito-colchao-magnetico-massageador-nippon-flex-preco-casal.jpg',
     stars: 5
   },
   {
@@ -54,7 +54,7 @@ const REVIEWS = [
     name: 'Roberto Campos',
     city: 'Londrina, PR',
     text: 'Produto de altíssimo nível. O sistema de massagem é silencioso mesmo, minha esposa nem percebe quando ligo.',
-    image: 'https://images.unsplash.com/photo-1505691938895-1758d7feb511?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
+    image: 'https://colchoesnippon.com.br/wp-content/uploads/2025/01/cliente-satisfeito-colchao-magnetico-massageador-nippon-flex-preco-casal.jpg',
     stars: 5
   },
   {
@@ -62,7 +62,7 @@ const REVIEWS = [
     name: 'Patrícia Duarte',
     city: 'Joinville, SC',
     text: 'Chegou antes do prazo e os entregadores foram super atenciosos. Já recomendei para minha família toda.',
-    image: 'https://images.unsplash.com/photo-1616594039964-40891a909d99?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
+    image: 'https://colchoesnippon.com.br/wp-content/uploads/2025/01/01-cliente-satisfeito-colchao-magnetico-massageador-nippon-flex-preco-casal.jpg',
     stars: 5
   }
 ];
